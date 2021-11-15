@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/JustinBerg-ReactPortfolio/static/css/main.ce3d57a4.chunk.css",
-    "main.js": "/JustinBerg-ReactPortfolio/static/js/main.2dfac731.chunk.js",
-    "main.js.map": "/JustinBerg-ReactPortfolio/static/js/main.2dfac731.chunk.js.map",
-    "runtime-main.js": "/JustinBerg-ReactPortfolio/static/js/runtime-main.98e7d4a6.js",
-    "runtime-main.js.map": "/JustinBerg-ReactPortfolio/static/js/runtime-main.98e7d4a6.js.map",
-    "static/js/2.ee408685.chunk.js": "/JustinBerg-ReactPortfolio/static/js/2.ee408685.chunk.js",
-    "static/js/2.ee408685.chunk.js.map": "/JustinBerg-ReactPortfolio/static/js/2.ee408685.chunk.js.map",
-    "static/js/3.52aea05f.chunk.js": "/JustinBerg-ReactPortfolio/static/js/3.52aea05f.chunk.js",
-    "static/js/3.52aea05f.chunk.js.map": "/JustinBerg-ReactPortfolio/static/js/3.52aea05f.chunk.js.map",
-    "index.html": "/JustinBerg-ReactPortfolio/index.html",
-    "static/css/main.ce3d57a4.chunk.css.map": "/JustinBerg-ReactPortfolio/static/css/main.ce3d57a4.chunk.css.map",
-    "static/js/2.ee408685.chunk.js.LICENSE.txt": "/JustinBerg-ReactPortfolio/static/js/2.ee408685.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/JustinBerg-ReactPortfolio/static/media/weather.65d837bb.png"
+    "main.css": "/www.millionairemindsetrea.com/static/css/main.3d990965.chunk.css",
+    "main.js": "/www.millionairemindsetrea.com/static/js/main.e6f529a3.chunk.js",
+    "main.js.map": "/www.millionairemindsetrea.com/static/js/main.e6f529a3.chunk.js.map",
+    "runtime-main.js": "/www.millionairemindsetrea.com/static/js/runtime-main.6b40a824.js",
+    "runtime-main.js.map": "/www.millionairemindsetrea.com/static/js/runtime-main.6b40a824.js.map",
+    "static/js/2.ee408685.chunk.js": "/www.millionairemindsetrea.com/static/js/2.ee408685.chunk.js",
+    "static/js/2.ee408685.chunk.js.map": "/www.millionairemindsetrea.com/static/js/2.ee408685.chunk.js.map",
+    "static/js/3.52aea05f.chunk.js": "/www.millionairemindsetrea.com/static/js/3.52aea05f.chunk.js",
+    "static/js/3.52aea05f.chunk.js.map": "/www.millionairemindsetrea.com/static/js/3.52aea05f.chunk.js.map",
+    "index.html": "/www.millionairemindsetrea.com/index.html",
+    "static/css/main.3d990965.chunk.css.map": "/www.millionairemindsetrea.com/static/css/main.3d990965.chunk.css.map",
+    "static/js/2.ee408685.chunk.js.LICENSE.txt": "/www.millionairemindsetrea.com/static/js/2.ee408685.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/www.millionairemindsetrea.com/static/media/mindset.35c26d29.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.98e7d4a6.js",
+    "static/js/runtime-main.6b40a824.js",
     "static/js/2.ee408685.chunk.js",
-    "static/css/main.ce3d57a4.chunk.css",
-    "static/js/main.2dfac731.chunk.js"
+    "static/css/main.3d990965.chunk.css",
+    "static/js/main.e6f529a3.chunk.js"
   ]
 }
